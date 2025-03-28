@@ -1,0 +1,32 @@
+2023-01-15	John Smith	Computer Programming
+2023-01-16	Mary Johnson	Data Science
+2023-01-17	Robert Williams	Web Development
+2023-01-18	Sarah Smith	Programming Languages
+2023-01-19	Michael Brown	Database Management
+2023-01-20	Jennifer Davis	Software Engineering
+2023-01-21	David Smith	Mobile Programming
+2023-01-22	Lisa Miller	Artificial Intelligence
+2023-01-23	James Wilson	Network Security
+2023-01-24	Patricia Moore	Cloud Computing
+2023-01-25	Thomas Smith	Programming Paradigms
+2023-01-26	Barbara Taylor	Machine Learning
+2023-01-27	Charles Anderson	Computer Graphics
+2023-01-28	Elizabeth Thomas	Programming Fundamentals
+2023-01-29	Daniel Jackson	Cybersecurity
+2023-01-30	Margaret White	Operating Systems
+2023-02-01	Richard Harris	Game Programming
+2023-02-02	Susan Martin	Data Structures
+2023-02-03	Joseph Thompson	Algorithm Design
+2023-02-04	Jessica Garcia	Web Programming
+2023-02-05	Charles Smith	Systems Programming
+2023-02-06	Nancy Martinez	User Interface Design
+2023-02-07	Christopher Robinson	Functional Programming
+2023-02-08	Karen Clark	Object-Oriented Programming
+2023-02-09	Matthew Rodriguez	Embedded Systems
+2023-02-10	Betty Lewis	Programming Ethics
+2023-02-11	Anthony Lee	Compiler Design
+2023-02-12	Dorothy Walker	Mobile App Development
+2023-02-13	Donald Hall	Quantum Computing
+2023-02-14	Sandra Allen	Programming for IoT
+2023-02-15	Mark Young	Parallel Programming
+2023-02-16	Karen Hall	Software Testing
